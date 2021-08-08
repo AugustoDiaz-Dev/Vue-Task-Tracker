@@ -1,0 +1,31 @@
+npm i -g @vue/cli
+
+vue ui            
+
+vue create task-tracker
+
+npm run serve
+
+----------------------------
+
+npm run build //Creates the dist folder
+
+npm i -g serve //Install the server
+
+serve -s //Run the server
+
+---------------------------
+
+npm i json-server
+
+json-server --watch db.json 
+
+ADD to the package.json/scripts: 
+
+"backend": "json-server --watch db.json --port 5000"
+
+npm run backend
+
+---------------------------
+
+npm i vue-router@next
