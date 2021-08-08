@@ -1,6 +1,7 @@
 # task-tracker
 
 https://augustodiaz-dev-vue-task-tracker.netlify.app/
+***The code is pushed but the docs folder has to be actualized.
 
 ## Project setup
 ```
